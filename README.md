@@ -1,5 +1,9 @@
 # banking
 Larvel Based Banking system
+- Fast Transfer 
+- Deposit Funds
+- Withdraw Funds
+- 
 
 --------------------------------------------
 
